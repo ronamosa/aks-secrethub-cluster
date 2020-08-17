@@ -1,6 +1,6 @@
 # aks-secrethub-cluster
 
-Basic cluster to follow my blog post on ['secrethub secrets management'](/some/url)
+Basic cluster to follow my blog post on ['SecretHub Secrets Management'](https://ronamosa.io/documentation/2020-08-17-Secrethub-Secret-Management/)
 
 Follow the blog post for instructions on setting this up.
 
